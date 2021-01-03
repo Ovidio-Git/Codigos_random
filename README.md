@@ -1,2 +1,2 @@
-# Codigos_random
+# Codes_random
 repository of codes random
