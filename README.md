@@ -1,2 +1,2 @@
-# Codes_random
-repository of codes random
+# Codes_Matlab
+repository of Matlab codes
